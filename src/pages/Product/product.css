@@ -1,0 +1,27 @@
+.product{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+img{
+    border-radius: 10px;
+}
+
+}
+.p-right{
+    h2{
+       
+        margin-left: 360px;
+        margin-top: 10px;
+    }
+}
+.sss{
+    margin-left: 30%;
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(61, 192, 61);
+    border: 0;
+    border-radius: 8px;
+    color: #fff;
+} 

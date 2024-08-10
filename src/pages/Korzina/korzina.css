@@ -1,0 +1,96 @@
+.empty{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img{
+        width: 400px;
+    }
+}
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.ddd{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+    margin-left: 1070px;
+    background-color: dodgerblue;
+    color: #fff;
+}
+.eee{
+    width: 30px;
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.empty{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img{
+        width: 400px;
+    }
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.minus-btn{
+    width: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.clear-btn{
+    border-radius: 15px;
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+}
+.order-btn{
+    margin-top: 20px;
+    border-radius: 15px;
+    width: 100px;
+    height: 35px;
+    font-size: 15px;
+    background-color: white;
+    cursor: pointer;
+}
+.krznka{
+    cursor: pointer;
+}
+.offer{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    input{
+        height: 50px;
+        font-size: 20px;
+    }
+    textarea{
+        resize: vertical;
+        height: 300px;
+        padding: 20px;
+        font-size: 20px;
+    }
+}

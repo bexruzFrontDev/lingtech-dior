@@ -1,0 +1,95 @@
+{
+  "sneakers": [
+    {
+      "id": "1",
+      "name": "Asics Men US5-S GEL-QUANTUM KINETIC Light Indigo/Peacoat '24",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/s/asics-men-us5-s-gel-quantum-kinetic-light-indigo-peacoat-1203a403-400.jpg",
+      "price": 189,
+      "category": "Men"
+    },
+    {
+      "id": "2",
+      "name": " Women Gazelle Bold Almost Blue / Bright Blue / Almost Yellow 24",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/d/adidas-women-gazelle-bold-almost-blue-bright-blue-almost-yellow-ie0430.jpg",
+      "price": 120,
+      "category": "Men"
+    },
+    {
+      "id": "3",
+      "name": " Trainers Puma Unisex Suede Classic Black White",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/p/u/puma-unisex-suede-classic-black-white-399781-01.jpg",
+      "price": 89.95,
+      "category": "Men"
+    },
+    {
+      "id": "4",
+      "name": " Trainers New Balance Unisex M1906REM Sea Salt",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/n/e/new-balance-unisex-m1906rem-sea-salt-m1906rem.jpg",
+      "price": 160,
+      "category": "Men"
+    },
+    {
+      "id": "5",
+      "name": "Trainers New Balance Unisex U9060SRA Taro",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/n/e/new-balance-unisex-u9060sra-taro-u9060sra.jpg",
+      "price": 190,
+      "category": "Men"
+    },
+    {
+      "id": "6",
+      "name": "Trainers New Balance Unisex M1000TE Silver Metallic",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/n/e/new-balance-unisex-m1000te-silver-metalic-m1000te.jpg",
+      "price": 190,
+      "category": "Men"
+    },
+    {
+      "id": "7",
+      "name": "Trainers New Balance Unisex M1000TP Black",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/n/e/new-balance-unisex-m1000tp-black-m1000tp.jpg",
+      "price": 190,
+      "category": "Men"
+    },
+    {
+      "id": "8",
+      "name": " Trainers Puma Unisex Suede Classic Navy White",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/p/u/puma-unisex-suede-classic-navy-white-399781-03.jpg",
+      "price": 89.95,
+      "category": "Men"
+    },
+    {
+      "id": "9",
+      "name": " Trainers Adidas Women Gazelle Bold Grey Magic Beige Gum",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/d/adidas-women-gazelle-bold-grey-magic-beige-gum-ie0428.jpg",
+      "price": 120,
+      "category": "Men"
+    },
+    {
+      "id": "10",
+      "name": "Trainers Asics Unisex GEL-NIMBUS 10.1 Piedmont Grey Pure Silver",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/s/asics-unisex-gel-nimbus-101-piedmont-grey-pure-silver-1203a543-020.jpg",
+      "price": 170,
+      "category": "Men"
+    },
+    {
+      "id": "11",
+      "name": " Trainers adidas Women Gazelle Bold Core Black/ Cloud White",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/d/adidas-women-gazelle-bold-core-black-cloud-white-cloud-white-ie0876.jpg",
+      "price": 120,
+      "category": "Men"
+    },
+    {
+      "id": "12",
+      "name": " Trainers New Balance Men Made in UK U1500PNV Navy",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/n/e/new-balance-men-made-in-uk-u1500pnv-navy-u1500pnv.jpg",
+      "price": 230,
+      "category": "Men"
+    },
+    {
+      "id": "613b",
+      "name": "Nike",
+      "image": "https://cdn.etrias.nl/media/cache/product_lg/a/d/adidas-women-gazelle-bold-almost-blue-bright-blue-almost-yellow-ie0430.jpg",
+      "price": "125",
+      "category": "Men"
+    }
+  ]
+}

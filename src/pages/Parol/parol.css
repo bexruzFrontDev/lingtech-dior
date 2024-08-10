@@ -1,0 +1,19 @@
+.pinkod{
+    height: 100vh;
+   gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+input{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+}
+button{
+    width: 70px;
+    height: 30px;
+    border-radius: 8px;
+    color: #fff;
+    border: 0;
+}
+}
